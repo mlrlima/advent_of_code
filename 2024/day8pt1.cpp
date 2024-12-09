@@ -2,7 +2,6 @@
 #include<map>
 #include<vector>
 #include<string>
-#include<cmath> //for abs()
 using namespace std;
 
 int main(){
